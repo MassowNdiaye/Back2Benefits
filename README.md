@@ -26,12 +26,12 @@ The platform connects users with **resources, volunteer opportunities, and donat
 
 ## 🚀 Usage Guide  
 
-1. **Clone the repository**
-   git clone https://github.com/MassowNdiaye/Back2Benefits.git
+1. **Clone the repository:**
+   - git clone https://github.com/MassowNdiaye/Back2Benefits.git
 
 
-2. **Navigate into the project folder**
-    cd Back2Benefits
+2. **Navigate into the project folder:**
+    - cd Back2Benefits
 
     - Open index.html in your browser
     - Or run it using a local server such as Live Server in VS Code
